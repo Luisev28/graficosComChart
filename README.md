@@ -1,4 +1,4 @@
-## Graficos usando Chart.js
+## Gráficos usando Chart.js
 Gráficos básicos usando Chart
 
 <p>Link para Chart.js</p>
